@@ -36,10 +36,11 @@ bone.dest('js/pages')
 ```
 
 ### 配置说明
-参数 | 说明
------------- | -------------
-prefix | 数组，替换后的url前缀，可配置多个域名，最大限度利用http请求资源的并发数
-templatePath | 支持bone的路径格式，要处理的文件所在的路径
-versionPath | 记载着要替换文件的hash值所在的version文件
-regPre | 模板文件中静态资源的统一前缀
+参数 | 说明 | 缺省值
+------------ | ------------- | ------------
+prefix | 必填，数组，替换后的url前缀，可配置多个域名，最大限度利用http请求资源的并发数 | 无
+templatePath | 必填，支持bone的路径格式，要处理的文件所在的路径 | 无
+versionPath | 必填，记载着要替换文件的hash值所在的version文件 | 无
+regPre | 模板文件中静态资源的统一前缀 | /static/
+ext | 数组，要替换的扩展名 | ['jpg', 'png', 'gif', 'bmp', 'js', 'swf', 'css']
 
