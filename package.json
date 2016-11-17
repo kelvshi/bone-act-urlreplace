@@ -1,0 +1,26 @@
+{
+  "name": "bone-act-urlreplace",
+  "version": "0.0.1",
+  "description": "this is a act tools for bone to replace url from template or html.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvshi/bone-act-urlreplace.git"
+  },
+  "keywords": [
+    "bone",
+    "bone-act",
+    "html",
+    "url",
+    "replace"
+  ],
+  "author": "kelvshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelvshi/bone-act-urlreplace/issues"
+  },
+  "homepage": "https://github.com/kelvshi/bone-act-urlreplace#readme"
+}
