@@ -1,6 +1,6 @@
 {
   "name": "bone-act-urlreplace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is a act tools for bone to replace url from template or html.",
   "main": "index.js",
   "scripts": {
